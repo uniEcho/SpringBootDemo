@@ -1,4 +1,4 @@
-package com.uniecho.hello;
+package com.uniecho.springbootdemo;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,13 +1,16 @@
-package com.uniecho.hello;
+package com.uniecho.springbootdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author uniEcho
+ */
 @SpringBootApplication
-public class HelloApplication {
+public class Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(HelloApplication.class, args);
+        SpringApplication.run(Application.class, args);
 
     }
 
